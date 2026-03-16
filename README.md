@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Madhu Hasini 👋
 
-<!--
-**Madhuhasini-05/Madhuhasini-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year ECE Student  
+💻 Embedded Systems Enthusiast  
+📍 Nellore, Andhra Pradesh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+- Embedded C
+- LPC1768 (ARM Cortex-M3)
+- RTOS Basics
+- UART Communication
+- ADC Interfacing
+- GPIO Programming
+- Sensor Interfacing
+
+---
+
+## 📂 Projects
+
+### PREVISENSE – Embedded Fault Monitoring and Protection Controller
+Embedded system designed to monitor electrical conditions and trigger protection mechanisms using LPC1768 microcontroller.
+
+### Smart Embedded Control and Monitoring System
+Device control system using UART communication and LPC1768 microcontroller with sensor monitoring.
+
+### NeuroFlex – Smart Sciatica Aid
+Wearable embedded device concept for detecting early symptoms of sciatica using sensors and ESP32.
+
+---
+
+## 🚀 Currently Learning
+
+- Embedded Firmware Development
+- RTOS Task Management
+- Advanced Microcontroller Programming
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Madhuhasini-05  
+LinkedIn: (Add your LinkedIn link here later)
+
+---
+
+⭐ Interested in Embedded Systems, Firmware Development and Real-Time Systems.
