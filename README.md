@@ -42,7 +42,7 @@ Wearable embedded device concept for detecting early symptoms of sciatica using 
 ## 📫 Connect With Me
 
 GitHub: https://github.com/Madhuhasini-05  
-LinkedIn: (Add your LinkedIn link here later)
+LinkedIn: linkedin.com/in/madhu-hasini-embedded
 
 ---
 
