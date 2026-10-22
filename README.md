@@ -1,6 +1,6 @@
 # Hi, I'm Madhu Hasini 👋
 
-🎓 Final Year ECE Student  
+🎓 ECE Student  
 💻 Embedded Systems Enthusiast  
 📍 Nellore, Andhra Pradesh, India  
 
